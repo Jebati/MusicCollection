@@ -1,0 +1,13 @@
+C:\Users\Jebati\source\repos\MusicCollection\MusicCollection\bin\Debug\netcoreapp3.1\MusicCollection.exe
+C:\Users\Jebati\source\repos\MusicCollection\MusicCollection\bin\Debug\netcoreapp3.1\MusicCollection.deps.json
+C:\Users\Jebati\source\repos\MusicCollection\MusicCollection\bin\Debug\netcoreapp3.1\MusicCollection.runtimeconfig.json
+C:\Users\Jebati\source\repos\MusicCollection\MusicCollection\bin\Debug\netcoreapp3.1\MusicCollection.runtimeconfig.dev.json
+C:\Users\Jebati\source\repos\MusicCollection\MusicCollection\bin\Debug\netcoreapp3.1\MusicCollection.dll
+C:\Users\Jebati\source\repos\MusicCollection\MusicCollection\bin\Debug\netcoreapp3.1\MusicCollection.pdb
+C:\Users\Jebati\source\repos\MusicCollection\MusicCollection\obj\Debug\netcoreapp3.1\MusicCollection.csprojAssemblyReference.cache
+C:\Users\Jebati\source\repos\MusicCollection\MusicCollection\obj\Debug\netcoreapp3.1\MusicCollection.AssemblyInfoInputs.cache
+C:\Users\Jebati\source\repos\MusicCollection\MusicCollection\obj\Debug\netcoreapp3.1\MusicCollection.AssemblyInfo.cs
+C:\Users\Jebati\source\repos\MusicCollection\MusicCollection\obj\Debug\netcoreapp3.1\MusicCollection.csproj.CoreCompileInputs.cache
+C:\Users\Jebati\source\repos\MusicCollection\MusicCollection\obj\Debug\netcoreapp3.1\MusicCollection.dll
+C:\Users\Jebati\source\repos\MusicCollection\MusicCollection\obj\Debug\netcoreapp3.1\MusicCollection.pdb
+C:\Users\Jebati\source\repos\MusicCollection\MusicCollection\obj\Debug\netcoreapp3.1\MusicCollection.genruntimeconfig.cache
